@@ -1,6 +1,6 @@
 # ExternalScreen (iOS)
 
-This is an Example XCode Project to demonstrate the capability of the [cordova-plugin-app-wkwebview-external-screen](https://github.com/josiaho/cordova-plugin-app-wkwebview-external-screen).
+This is an Example XCode Project to demonstrate the capability of the [cordova-plugin-wkwebview-external-screen](https://github.com/josiaho/cordova-plugin-wkwebview-external-screen).
 
 ![](views.jpg)
 
